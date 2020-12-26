@@ -10,3 +10,7 @@ yarn add react-native-gesture-handler
 yarn add redux
 yarn add react-redux
 yarn add redux-thunk
+yarn add @react-navigation/bottom-tabs
+yarn add react-native-vector-icons
+yarn add @react-navigation/material-bottom-tabs
+yarn add react-native-paper
