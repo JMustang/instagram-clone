@@ -1,5 +1,7 @@
 # instagram-clone
 
-react native
-redux
-firebase
+react native<br>
+expo<br>
+redux<br>
+firebase<br>
+extensions used in that APP: [extensions](comandos.md)
